@@ -1,1 +1,1 @@
-# Robust-Bayesian-statistical-inference-for-linear-regression-of-interval-valued-data
+I will upload my code about this paper after accept. 
